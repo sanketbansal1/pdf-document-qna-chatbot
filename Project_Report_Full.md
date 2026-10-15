@@ -1002,6 +1002,6 @@ Beyond its immediate utility, this project demonstrates a deep understanding of 
 
 ---
 
-*Report prepared by: [Your Name]*
-*Date: August 2026*
+*Report prepared by: Sanket Bansal*
+*Date: Oct'25 - Nov'25*
 *Project: PDF Document Q&A Chatbot (RAG)*
